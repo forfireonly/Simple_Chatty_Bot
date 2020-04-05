@@ -1,0 +1,15 @@
+/**
+ * The class implements a simple application with the main method.
+ */
+class CommentedSimpleApplication {
+
+    public static void main(String[] args) {
+
+      // System.out.println(980233);
+        int number = 12241;
+        int digit = ((number % 100) / 10) % 10;
+       System.out.println(893457);
+      // System.out.println(789722);
+
+    }
+}

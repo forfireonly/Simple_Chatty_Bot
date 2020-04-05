@@ -1,0 +1,22 @@
+# Project exclude paths
+/.gradle/
+/Problems/Hello, Java platform/out/
+/Problems/Hello, Java platform/out/production/classes/
+/Problems/Incorrect comments/out/
+/Problems/Incorrect comments/out/production/classes/
+/Problems/Print strings in the reverse order/out/
+/Problems/Print strings in the reverse order/out/production/classes/
+/Problems/Printing only the longest line/out/
+/Problems/Printing only the longest line/out/production/classes/
+/Problems/Printing strings in the same order/out/
+/Problems/Printing strings in the same order/out/production/classes/
+/Problems/Reversing/out/
+/Problems/Reversing/out/production/classes/
+/Problems/Seven continents/out/
+/Problems/Seven continents/out/production/classes/
+/Problems/Uncomment a line/out/
+/Problems/Uncomment a line/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Simple Chatty Bot/task/out/test/classes/
